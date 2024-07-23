@@ -1,0 +1,18 @@
+* cd d:/zypl
+* mkdir project_mockup
+* cd project_mockup
+* git init 
+* mkdir source
+* mkdir queries
+* touch readme.md
+* touch my.db & touch ddl.py & touch connector.py & touch etl.py
+* touch dashboard.py & touch requirements.txt
+* touch bash_script.txt
+* git status
+* git add .
+* git commit -m "Add course project structure"
+
+-- Создаем репозиторий на GitHub и привязываем его к локальному
+
+* git remote add origin git@github.com:ManizhaM/project_mockup.git  
+* git push -u origin main
